@@ -42,7 +42,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Set Up an Online Store with Snipcart, Angular & Firebase?](https://medium.com/@alantheace/how-to-set-up-an-online-store-with-snipcart-angular-firebase-75a403b973f6?source=rss-48044e42e288------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/feed/@alantheace)
