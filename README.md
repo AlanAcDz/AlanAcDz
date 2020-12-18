@@ -12,7 +12,7 @@
 
 ### Spotify Now Playing 🎧
 
-[<img src="https://spotify-now-playing.alanacdz.vercel.app/api/spotify" alt="Alan's Spotify Playing" width="350" />](https://open.spotify.com/user/21b4otnzk5mwtkyp7fhe3e42y)
+[![Spotify](https://spotify-now-playing.alanacdz.vercel.app/api/spotify)](https://open.spotify.com/user/21b4otnzk5mwtkyp7fhe3e42y)
 
 ### Connect with me:
 
