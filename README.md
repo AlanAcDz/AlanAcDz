@@ -10,6 +10,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read & play videogames
 
+### Spotify Now Playing 🎧
+
+[<img src="https://spotify-now-playing.alanacdz.vercel.app/api/spotify" alt="Alan's Spotify Playing" width="350" />](https://open.spotify.com/user/21b4otnzk5mwtkyp7fhe3e42y)
+
 ### Connect with me:
 
 [<img align="left" alt="devaces.com.mx" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
