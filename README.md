@@ -1,5 +1,8 @@
 ### Hi there, I'm Alan 👋
 
+[![Website](https://img.shields.io/website?label=DevAces.com.mx&style=for-the-badge&url=https%3A%2F%2Fdevaces.com.mx)](https://devaces.com.mx)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Alantheace13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAlantheace13&screen_name=Alantheace13)
+
 ## I'm a Biomedical Engineer that loves coding!!
 
 - 🔭 I just launched my second personal project: [MitHealth][mithealth]!
@@ -49,6 +52,14 @@
 ➡️ [more blog posts...](https://medium.com/feed/@alantheace)
 
 ---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
