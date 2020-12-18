@@ -49,6 +49,14 @@
 
 ---
 
+<details>
+    <summary>:zap: GitHub Stats</summary>
+
+    <img align="left" alt="Alan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlanAcDz&show_icons=true&hide_border=true" />
+    <img align="left" alt="Alan's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlanAcDz&layout=compact&hide_border=true" />
+
+</details>
+
 [website]: https://devaces.com.mx
 [mithealth]: https://mithealth.app
 [twitter]: https://twitter.com/Alantheace13
