@@ -48,6 +48,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Improve your site’s SEO and Google ranking with React SSR](https://medium.com/@alantheace/improve-your-sites-seo-and-google-ranking-with-react-ssr-66d02eae54cb?source=rss-48044e42e288------2)
 - [How to Set Up an Online Store with Snipcart, Angular & Firebase?](https://medium.com/@alantheace/how-to-set-up-an-online-store-with-snipcart-angular-firebase-75a403b973f6?source=rss-48044e42e288------2)
 <!-- BLOG-POST-LIST:END -->
 
