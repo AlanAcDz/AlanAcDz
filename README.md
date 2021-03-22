@@ -48,9 +48,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The best way of setting up Zoom inside your Angular app](https://medium.com/@alantheace/the-best-way-of-setting-up-zoom-inside-your-angular-app-b370cf895477?source=rss-48044e42e288------2)
-- [Improve your site’s SEO and Google ranking with React SSR](https://medium.com/@alantheace/improve-your-sites-seo-and-google-ranking-with-react-ssr-66d02eae54cb?source=rss-48044e42e288------2)
-- [How to Set Up an Online Store with Snipcart, Angular & Firebase?](https://medium.com/@alantheace/how-to-set-up-an-online-store-with-snipcart-angular-firebase-75a403b973f6?source=rss-48044e42e288------2)
+- [The best way of setting up Zoom inside your Angular app](https://alantheace.medium.com/the-best-way-of-setting-up-zoom-inside-your-angular-app-b370cf895477?source=rss-48044e42e288------2)
+- [Improve your site’s SEO and Google ranking with React SSR](https://alantheace.medium.com/improve-your-sites-seo-and-google-ranking-with-react-ssr-66d02eae54cb?source=rss-48044e42e288------2)
+- [How to Set Up an Online Store with Snipcart, Angular & Firebase?](https://alantheace.medium.com/how-to-set-up-an-online-store-with-snipcart-angular-firebase-75a403b973f6?source=rss-48044e42e288------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/feed/@alantheace)
