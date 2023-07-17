@@ -1,47 +1,26 @@
-### Hi there, I'm Alan 👋
+## Hi there, I'm Alan 👋
 
-[![Website](https://img.shields.io/website?label=DevAces.com.mx&style=for-the-badge&url=https%3A%2F%2Fdevaces.com.mx)](https://devaces.com.mx)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Alantheace13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAlantheace13&screen_name=Alantheace13)
+I'm a passionate freelance full-stack web developer who finds true joy in coding. Constantly exploring new technologies and frameworks, I thrive on tackling complex challenges and transforming ideas into elegant solutions. Let's collaborate and build something incredible together!
 
-## I'm a Biomedical Engineer that loves coding!!
-
-- 🔭 I just launched my second personal project: [MitHealth][mithealth]!
-- 🌱 I’m currently learning React
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read & play videogames
-
-### Spotify Now Playing 🎧
-
-[![Spotify](https://spotify-now-playing.alanacdz.vercel.app/api/spotify)](https://open.spotify.com/user/21b4otnzk5mwtkyp7fhe3e42y)
+- 🥅 2023 Goals:
+  - Contribute more to Open Source projects
+  - Build an app that gets more than 0 users
+- ⚡ Fun fact: I love horror stories & souls games
 
 ### Connect with me:
 
-[<img align="left" alt="devaces.com.mx" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Alantheace | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Alantheace | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Alantheace | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Website](https://img.shields.io/website?label=DevAces.com.mx&style=for-the-badge&url=https%3A%2F%2Fdevaces.com.mx)](https://devaces.com.mx)
 
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[<img align="left" alt="Alantheace | Twitter" src="https://skillicons.dev/icons?i=twitter" />][twitter]
+[<img align="left" alt="Alantheace | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
+[<img align="left" alt="Alantheace | Instagram" src="https://skillicons.dev/icons?i=instagram" />][instagram]
 
 <br />
 <br />
+
+### My Favorite Tools:
+
+[![My Favorite Tools](https://skillicons.dev/icons?i=ts,angular,react,svelte,astro,nestjs,nextjs,prisma,planetscale)](https://skillicons.dev)
 
 ---
 
