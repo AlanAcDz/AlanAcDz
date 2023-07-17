@@ -50,8 +50,8 @@ I'm a passionate freelance full-stack web developer who finds true joy in coding
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Alan's GitHub Stats" src="https://github-readme-stats.alanacdz.vercel.app/api?username=AlanAcDz&show_icons=true&hide_border=true" />
-  <img align="left" alt="Alan's Top Langs" src="https://github-readme-stats.alanacdz.vercel.app/api/top-langs?username=AlanAcDz&layout=compact&hide_border=true" />
+  <img align="left" alt="Alan's GitHub Stats" src="https://github-readme-stats-mu-flax.vercel.app/api?username=AlanAcDz&show_icons=true&hide_border=true" />
+  <img align="left" alt="Alan's Top Langs" src="https://github-readme-stats-mu-flax.vercel.app/api/top-langs?username=AlanAcDz&layout=compact&hide_border=true" />
 
 </details>
 
