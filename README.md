@@ -40,9 +40,9 @@ I'm a passionate freelance full-stack web developer who finds true joy in coding
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22616](https://github.com/ionic-team/ionic-framework/issues/22616) in [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)
-2. ❗️ Opened issue [#22616](https://github.com/ionic-team/ionic-framework/issues/22616) in [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)
-3. ❗️ Opened issue [#22594](https://github.com/ionic-team/ionic-framework/issues/22594) in [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)
+1. 💪 Opened PR [#95](https://github.com/ankurrsinghal/svelte-legos/pull/95) in [ankurrsinghal/svelte-legos](https://github.com/ankurrsinghal/svelte-legos)
+2. 🗣 Commented on [#225](https://github.com/pingdotgg/uploadthing/pull/225#issuecomment-1644508236) in [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
+3. 💪 Opened PR [#225](https://github.com/pingdotgg/uploadthing/pull/225) in [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
 <!--END_SECTION:activity-->
 
 </details>
