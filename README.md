@@ -1,4 +1,4 @@
-## Hi there, I'm Alan 👋
+# Hi there, I'm Alan 👋
 
 I'm a passionate freelance full-stack web developer who finds true joy in coding. Constantly exploring new technologies and frameworks, I thrive on tackling complex challenges and transforming ideas into elegant solutions. Let's collaborate and build something incredible together!
 
@@ -6,6 +6,10 @@ I'm a passionate freelance full-stack web developer who finds true joy in coding
   - Contribute more to Open Source projects
   - Build an app that gets more than 0 users
 - ⚡ Fun fact: I love horror stories & souls games
+
+## Latest projects
+
+- [SalaryVista](https://salaryvista.com): The place that will (eventually) answer all your salary related querstions
 
 ### Connect with me:
 
