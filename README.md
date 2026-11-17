@@ -1,66 +1,34 @@
-# Hi there, I'm Alan 👋
+# Alan Acuña
 
-I'm a passionate freelance full-stack web developer who finds true joy in coding. Constantly exploring new technologies and frameworks, I thrive on tackling complex challenges and transforming ideas into elegant solutions. Let's collaborate and build something incredible together!
+Senior full-stack engineer building web and mobile products with TypeScript. Based in Mexico City, with overlap on US Central and Eastern hours.
 
-- 🥅 2023 Goals:
-  - Contribute more to Open Source projects
-  - Build an app that gets more than 0 users
-- ⚡ Fun fact: I love horror stories & souls games
+I have 8 years of experience taking software from scope and data model to deployment and support. Through DevAces and my contract work, I've shipped 150+ real-time event and brand-experience apps for 30+ brands, including PepsiCo, Roche, MSD and TikTok.
 
-## Latest projects
+I'm open to remote contract work, including part-time engagements.
 
-- [SalaryVista](https://salaryvista.com): The place that will (eventually) answer all your salary related querstions
+[Portfolio](https://devaces.com.mx/en) · [LinkedIn](https://www.linkedin.com/in/alan-acuna-dev/) · [Email](mailto:alan@devaces.com.mx)
 
-### Connect with me:
+## Products I build and run
 
-[![Website](https://img.shields.io/website?label=DevAces.com.mx&style=for-the-badge&url=https%3A%2F%2Fdevaces.com.mx)](https://devaces.com.mx)
+- **[Punto Listo](https://puntolisto.com)**: multi-tenant point-of-sale SaaS for small shops. SvelteKit, PostgreSQL, Drizzle, Better Auth organizations and Stripe. I own the product and engineering, including inventory, checkout, receipts and role-based access.
+- **Arya, Pet Pill Reminder**: iOS and Android app with paying subscribers. React Native, Expo, SQLite and RevenueCat.
+- **Todo Bicho**: clinical-records SaaS for veterinary practices. Built from idea to production in about two weeks with SvelteKit, PostgreSQL and an agent-assisted workflow.
 
-[<img align="left" alt="Alantheace | Twitter" src="https://skillicons.dev/icons?i=twitter" />][twitter]
-[<img align="left" alt="Alantheace | LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
-[<img align="left" alt="Alantheace | Instagram" src="https://skillicons.dev/icons?i=instagram" />][instagram]
+## Engineering work
 
-<br />
-<br />
+- Real-time apps with Socket.IO, including live voting, trivia, registration and QR check-in.
+- Reusable scaffolding and shared architectures for short-deadline client projects.
+- Offline-first kiosk apps that work through unreliable venue connectivity.
+- CI/CD, Docker and self-hosted Linux infrastructure.
+- Open-source contribution: Svelte support for UploadThing.
 
-### My Favorite Tools:
+I use Claude Code and Codex daily to work across 4–6 projects in parallel. I own the specifications, architecture, code review and release decisions.
 
-[![My Favorite Tools](https://skillicons.dev/icons?i=ts,angular,react,svelte,astro,nestjs,nextjs,prisma,planetscale)](https://skillicons.dev)
+## Stack
 
----
+- **Web:** TypeScript, Angular, Svelte / SvelteKit, React / Next.js, Astro, Tailwind CSS.
+- **Mobile:** React Native, Expo.
+- **Backend and data:** Node.js, Bun, PostgreSQL, SQLite, Drizzle, Better Auth, REST and WebSockets.
+- **Infrastructure and services:** Docker, Linux, Proxmox, Traefik, Vercel, Stripe and RevenueCat.
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [The best way of setting up Zoom inside your Angular app](https://alantheace.medium.com/the-best-way-of-setting-up-zoom-inside-your-angular-app-b370cf895477?source=rss-48044e42e288------2)
-- [Improve your site’s SEO and Google ranking with React SSR](https://alantheace.medium.com/improve-your-sites-seo-and-google-ranking-with-react-ssr-66d02eae54cb?source=rss-48044e42e288------2)
-- [How to Set Up an Online Store with Snipcart, Angular & Firebase?](https://alantheace.medium.com/how-to-set-up-an-online-store-with-snipcart-angular-firebase-75a403b973f6?source=rss-48044e42e288------2)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/feed/@alantheace)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#225](https://github.com/pingdotgg/uploadthing/pull/225#issuecomment-1720033267) in [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
-2. 🗣 Commented on [#225](https://github.com/pingdotgg/uploadthing/pull/225#issuecomment-1716237036) in [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing)
-3. 💪 Opened PR [#97](https://github.com/ankurrsinghal/svelte-legos/pull/97) in [ankurrsinghal/svelte-legos](https://github.com/ankurrsinghal/svelte-legos)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Alan's GitHub Stats" src="https://github-readme-stats-mu-flax.vercel.app/api?username=AlanAcDz&show_icons=true&hide_border=true" />
-  <img align="left" alt="Alan's Top Langs" src="https://github-readme-stats-mu-flax.vercel.app/api/top-langs?username=AlanAcDz&layout=compact&hide_border=true" />
-
-</details>
-
-[website]: https://devaces.com.mx
-[mithealth]: https://mithealth.app
-[twitter]: https://twitter.com/Alantheace13
-[instagram]: https://instagram.com/alantheace13
-[linkedin]: https://linkedin.com/in/alan-acuña-díaz
+Outside work, I like horror stories and Souls games.
