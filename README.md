@@ -11,8 +11,8 @@ I'm open to remote contract work, including part-time engagements.
 ## Products I build and run
 
 - **[Punto Listo](https://puntolisto.com)**: multi-tenant point-of-sale SaaS for small shops. SvelteKit, PostgreSQL, Drizzle, Better Auth organizations and Stripe. I own the product and engineering, including inventory, checkout, receipts and role-based access.
-- **Arya, Pet Pill Reminder**: iOS and Android app with paying subscribers. React Native, Expo, SQLite and RevenueCat.
-- **Todo Bicho**: clinical-records SaaS for veterinary practices. Built from idea to production in about two weeks with SvelteKit, PostgreSQL and an agent-assisted workflow.
+- **[Arya, Pet Pill Reminder](https://aryapillreminder.com/en/)**: iOS and Android app with paying subscribers. React Native, Expo, SQLite and RevenueCat.
+- **[Todo Bicho](https://todobicho.vet/)**: clinical-records SaaS for veterinary practices. Built from idea to production in about two weeks with SvelteKit, PostgreSQL and an agent-assisted workflow.
 
 ## Engineering work
 
